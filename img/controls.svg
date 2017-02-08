@@ -1,1 +1,189 @@
-<?xml version="1.0" standalone="no"?><!-- Generator: Adobe Fireworks CS6, Export SVG Extension by Aaron Beall (http://fireworks.abeall.com) . Version: 0.6.1  --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="controls.fw-Page%201" viewBox="0 0 144 32" style="background-color:#ffffff00" version="1.1"	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"	x="0px" y="0px" width="144px" height="32px">	<defs>		<radialGradient id="gradient1" cx="50%" cy="50%" r="50%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#f2f2f2" stop-opacity="0.2" offset="100%"/>		</radialGradient>		<linearGradient id="gradient2" x1="50%" y1="-7.8652%" x2="50%" y2="249.6629%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient3" x1="50%" y1="0%" x2="50%" y2="238.75%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient4" x1="50%" y1="0%" x2="50%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient5" x1="50%" y1="-33.3333%" x2="50%" y2="152.0833%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient6" x1="50%" y1="0%" x2="50%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient7" x1="50%" y1="-33.3333%" x2="50%" y2="152.0833%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient8" x1="50%" y1="0%" x2="50%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient9" x1="50%" y1="0%" x2="50%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient10" x1="50%" y1="0%" x2="50%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient11" x1="50%" y1="0%" x2="50%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient12" x1="50%" y1="0%" x2="50%" y2="238.75%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient13" x1="40%" y1="-140%" x2="40%" y2="98.75%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient14" x1="50%" y1="0%" x2="50%" y2="238.75%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient15" x1="60%" y1="-140%" x2="60%" y2="98.75%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient16" x1="50%" y1="0%" x2="50%" y2="298.4375%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient17" x1="50%" y1="0%" x2="50%" y2="238.75%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient18" x1="50%" y1="-200%" x2="50%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient19" x1="50%" y1="-200%" x2="50%" y2="110.9375%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient20" x1="55%" y1="0%" x2="55%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="100%"/>		</linearGradient>		<linearGradient id="gradient21" x1="50%" y1="0%" x2="50%" y2="100%">			<stop stop-color="#ffffff" stop-opacity="1" offset="0%"/>			<stop stop-color="#c8c8c8" stop-opacity="1" offset="99.4444%"/>		</linearGradient>	</defs>	<g id="BG">	</g>	<g id="controls">		<path id="Line" d="M 98.5 7.5 L 109.5 7.5 " stroke="#ffffff" stroke-width="1" fill="none"/>		<path id="Line2" d="M 98.5 3.5 L 109.5 3.5 " stroke="#ffffff" stroke-width="1" fill="none"/>		<path id="Line3" d="M 98.5 11.5 L 109.5 11.5 " stroke="#ffffff" stroke-width="1" fill="none"/>		<path id="Ellipse" d="M 108 11.5 C 108 10.6716 108.4477 10 109 10 C 109.5523 10 110 10.6716 110 11.5 C 110 12.3284 109.5523 13 109 13 C 108.4477 13 108 12.3284 108 11.5 Z" fill="#ffffff"/>		<path id="Ellipse2" d="M 104 7.5 C 104 6.6716 104.4477 6 105 6 C 105.5523 6 106 6.6716 106 7.5 C 106 8.3284 105.5523 9 105 9 C 104.4477 9 104 8.3284 104 7.5 Z" fill="#ffffff"/>		<path id="Ellipse3" d="M 108 3.5 C 108 2.6716 108.4477 2 109 2 C 109.5523 2 110 2.6716 110 3.5 C 110 4.3284 109.5523 5 109 5 C 108.4477 5 108 4.3284 108 3.5 Z" fill="#ffffff"/>	</g>	<g id="backlight">		<g id="off">			<rect x="83" y="21" width="10" height="6" stroke="#ffffff" stroke-width="1" fill="#333333"/>		</g>		<g id="on">			<path id="Ellipse4" d="M 81 8 C 81 5.2385 84.134 3 88 3 C 91.866 3 95 5.2385 95 8 C 95 10.7615 91.866 13 88 13 C 84.134 13 81 10.7615 81 8 Z" fill="url(#gradient1)"/>			<rect x="83" y="5" width="10" height="6" stroke="#ffffff" stroke-width="1" fill="#333333"/>		</g>	</g>	<g id="loop">		<g id="on2">			<path d="M 73.795 4.205 C 75.2155 4.8785 76.2 6.3234 76.2 8 C 76.2 10.3196 74.3196 12.2 72 12.2 C 69.6804 12.2 67.8 10.3196 67.8 8 C 67.8 6.3234 68.7845 4.8785 70.205 4.205 L 68.875 2.875 C 67.1501 3.9289 66 5.8306 66 8 C 66 11.3138 68.6862 14 72 14 C 75.3138 14 78 11.3138 78 8 C 78 5.8306 76.8499 3.9289 75.125 2.875 L 73.795 4.205 Z" fill="url(#gradient2)"/>			<path d="M 71 2 L 66 2 L 71 7 L 71 2 Z" fill="url(#gradient3)"/>		</g>		<g id="off2">			<path d="M 73.795 20.205 C 75.2155 20.8785 76.2 22.3234 76.2 24 C 76.2 26.3196 74.3196 28.2 72 28.2 C 69.6804 28.2 67.8 26.3196 67.8 24 C 67.8 22.3234 68.7845 20.8785 70.205 20.205 L 68.875 18.875 C 67.1501 19.9289 66 21.8306 66 24 C 66 27.3138 68.6862 30 72 30 C 75.3138 30 78 27.3138 78 24 C 78 21.8306 76.8499 19.9289 75.125 18.875 L 73.795 20.205 Z" fill="#a8a8b7"/>			<path d="M 71 18 L 66 18 L 71 23 L 71 18 Z" fill="#a8a8b7"/>		</g>	</g>	<g id="cc">		<rect visibility="hidden" x="49" y="2" width="14" height="12" stroke="#b0b0b0" stroke-width="1" fill="none"/>		<text visibility="hidden" x="49" y="17" width="14" fill="#ffffff" style="font-size: 10px; color: #ffffff; font-family: Arial; text-align: center; "><tspan><![CDATA[cc]]></tspan></text>		<path d="M 55 7 C 50.2813 3.7813 50.063 12.9405 55 10 " stroke="#ffffff" stroke-width="1" fill="none"/>		<path d="M 60 7 C 55.2813 3.7813 55.063 12.9405 60 10 " stroke="#ffffff" stroke-width="1" fill="none"/>		<path d="M 50 3 L 62 3 L 62 13 L 50 13 L 50 3 ZM 49 2 L 49 14 L 63 14 L 63 2 L 49 2 Z" fill="url(#gradient4)"/>		<rect x="49" y="2" width="14" height="12" fill="none"/>	</g>	<g id="volume">		<g id="no%20sound">			<rect x="17" y="5" width="5" height="6" fill="url(#gradient5)"/>			<path d="M 21 5 L 25 2 L 25 14 L 21 11.0625 L 21 5 Z" fill="url(#gradient6)"/>		</g>		<g id="sound%20bars">			<rect x="17" y="21" width="5" height="6" fill="url(#gradient7)"/>			<path d="M 21 21 L 25 18 L 25 30 L 21 27.0625 L 21 21 Z" fill="url(#gradient8)"/>			<path d="M 27 18 C 27 18 30.0625 17.375 30 24 C 29.9375 30.625 27 30 27 30 " stroke="#ffffff" stroke-width="1" fill="none"/>			<path d="M 26 21.0079 C 26 21.0079 28.041 20.6962 27.9994 24 C 27.9577 27.3038 26 26.9921 26 26.9921 " stroke="#ffffff" stroke-width="1" fill="none"/>		</g>	</g>	<g id="play/pause">		<g id="play">			<path id="Polygon" d="M 14 8.5 L 3 14 L 3 3 L 14 8.5 Z" fill="url(#gradient9)"/>		</g>		<g id="pause">			<rect x="3" y="18" width="3" height="12" fill="url(#gradient10)"/>			<rect x="10" y="18" width="3" height="12" fill="url(#gradient11)"/>		</g>	</g>	<g id="fullscreen">		<g id="enter%201">			<path d="M 34 2 L 39 2 L 34 7 L 34 2 Z" fill="url(#gradient12)"/>			<path d="M 34 14 L 39 14 L 34 9 L 34 14 Z" fill="url(#gradient13)"/>			<path d="M 46 2 L 41 2 L 46 7 L 46 2 Z" fill="url(#gradient14)"/>			<path d="M 46 14 L 41 14 L 46 9 L 46 14 Z" fill="url(#gradient15)"/>		</g>		<g id="exit">			<path d="M 42 22 L 46 22 L 42 18 L 42 22 Z" fill="url(#gradient16)"/>			<path d="M 38 22 L 38 18 L 34 22 L 38 22 Z" fill="url(#gradient17)"/>			<path d="M 38 26 L 34 26 L 38 30 L 38 26 Z" fill="url(#gradient18)"/>			<path d="M 42 26 L 42 30 L 46 26 L 42 26 Z" fill="url(#gradient19)"/>		</g>	</g>	<g id="stop">		<rect x="115" y="3" width="10" height="10" fill="url(#gradient20)"/>	</g>	<g id="chooser">		<path d="M 135.2346 6.1522 C 136.2551 5.7295 137.4251 6.2141 137.8478 7.2346 C 138.2704 8.2551 137.7859 9.425 136.7654 9.8478 C 135.7449 10.2705 134.5749 9.7859 134.1522 8.7654 C 133.7295 7.7449 134.2141 6.5749 135.2346 6.1522 ZM 133.2735 1.4176 L 136 4.0054 L 138.7265 1.4176 L 138.8246 5.1754 L 142.5824 5.2735 L 139.9946 8 L 142.5824 10.7265 L 138.8246 10.8246 L 138.7265 14.5824 L 136 11.9946 L 133.2735 14.5824 L 133.1754 10.8246 L 129.4176 10.7265 L 132.0054 8 L 129.4176 5.2735 L 133.1754 5.1754 L 133.2735 1.4176 Z" fill="url(#gradient21)"/>	</g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 120" style="enable-background:new 0 0 300 120;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2DB34A;stroke:#D42027;stroke-miterlimit:10;}
+	.st1{fill:#2DB34A;stroke:#D42027;stroke-width:1.5;stroke-linecap:round;}
+	.st2{fill:#2DB34A;stroke:#D42027;}
+	.st3{fill:#2DB34A;stroke:#D42027;stroke-width:2;stroke-linecap:round;}
+	.st4{fill:#2DB34A;stroke:#D42027;stroke-width:2;}
+	.st5{opacity:0.5;}
+	.st6{opacity:0.75;}
+	.st7{opacity:0.75;fill:#2DB34A;stroke:#D42027;stroke-width:5;enable-background:new    ;}
+	.st8{fill:#2DB34A;stroke:#D42027;stroke-width:5;}
+	.st9{opacity:0.4;fill:#2DB34A;stroke:#D42027;stroke-miterlimit:10;enable-background:new    ;}
+	.st10{opacity:0.6;fill:#2DB34A;stroke:#D42027;stroke-miterlimit:10;enable-background:new    ;}
+	.st11{opacity:0.8;fill:#2DB34A;stroke:#D42027;stroke-miterlimit:10;enable-background:new    ;}
+	.st12{opacity:0.9;fill:#2DB34A;stroke:#D42027;stroke-miterlimit:10;enable-background:new    ;}
+	.st13{opacity:0.3;fill:#2DB34A;stroke:#D42027;stroke-miterlimit:10;enable-background:new    ;}
+	.st14{opacity:0.5;fill:#2DB34A;stroke:#D42027;stroke-miterlimit:10;enable-background:new    ;}
+	.st15{opacity:0.7;fill:#2DB34A;stroke:#D42027;stroke-miterlimit:10;enable-background:new    ;}
+</style>
+<g id="controls">
+	<g id="play_pause">
+		<g id="play">
+			<g id="Polygon">
+				<path class="st0" d="M16.5,8.5c0.3,0.1,0.4,0.5,0.2,0.8c-0.1,0.1-0.1,0.2-0.2,0.2l-11.4,7c-0.5,0.3-0.8,0.1-0.8-0.5V2
+					c0-0.5,0.4-0.8,0.8-0.5L16.5,8.5z"/>
+			</g>
+		</g>
+	</g>
+	<g id="pause">
+		<g>
+			<path class="st0" d="M24,1h2.2c0.6,0,1,0.4,1,1v14c0,0.6-0.4,1-1,1H24c-0.6,0-1-0.4-1-1V2C23,1.5,23.4,1,24,1z"/>
+			<path class="st0" d="M33.8,1H36c0.6,0,1,0.4,1,1v14c0,0.6-0.4,1-1,1h-2.2c-0.6,0-1-0.4-1-1V2C32.8,1.5,33.2,1,33.8,1z"/>
+		</g>
+	</g>
+	<g id="fullscreen">
+		<g id="enter">
+			<path class="st0" d="M81,1.4c0-0.6,0.4-1,1-1h5.4c0.6,0,0.7,0.3,0.3,0.7l-6,6C81.3,7.5,81,7.4,81,6.8L81,1.4z"/>
+			<path class="st0" d="M81,17.2c0,0.6,0.4,1,1,1h5.4c0.6,0,0.7-0.3,0.3-0.7l-6-6c-0.4-0.4-0.7-0.3-0.7,0.3L81,17.2z"/>
+			<path class="st0" d="M98.8,1.4c0-0.6-0.4-1-1-1h-5.4c-0.6,0-0.7,0.3-0.3,0.7l6,6c0.4,0.4,0.7,0.3,0.7-0.3V1.4z"/>
+			<path class="st0" d="M98.8,17.2c0,0.6-0.4,1-1,1h-5.4c-0.6,0-0.7-0.3-0.3-0.7l6-6c0.4-0.4,0.7-0.3,0.7,0.3V17.2z"/>
+		</g>
+	</g>
+	<g id="exit">
+		<g>
+			<path class="st0" d="M112.7,5c0,0.6,0.4,1,1,1h4.1c0.6,0,0.7-0.3,0.3-0.7l-4.7-4.7c-0.4-0.4-0.7-0.3-0.7,0.3V5z"/>
+			<path class="st0" d="M105.6,6c0.6,0,1-0.4,1-1V0.9c0-0.6-0.3-0.7-0.7-0.3l-4.7,4.7c-0.4,0.4-0.3,0.7,0.3,0.7L105.6,6z"/>
+			<path class="st0" d="M106.6,13.1c0-0.6-0.4-1-1-1h-4.1c-0.6,0-0.7,0.3-0.3,0.7l4.7,4.7c0.4,0.4,0.7,0.3,0.7-0.3V13.1z"/>
+			<path class="st0" d="M113.7,12.1c-0.6,0-1,0.4-1,1v4.1c0,0.5,0.3,0.7,0.7,0.3l4.7-4.7c0.4-0.4,0.3-0.7-0.3-0.7L113.7,12.1z"/>
+		</g>
+	</g>
+	<g id="volume">
+		<path class="st0" d="M67,5.8c-0.5,0.4-1.2,0.6-1.8,0.6H62c-0.6,0-1,0.4-1,1v5.7c0,0.6,0.4,1,1,1h3.2c0.3,0,0.7,0,1,0
+			c0.3,0.2,0.5,0.4,0.8,0.6l3.5,2.6c0.4,0.3,0.8,0.1,0.8-0.4V3.5c0-0.5-0.4-0.7-0.8-0.4L67,5.8z"/>
+		<g id="volume-2">
+			<g id="soundbars">
+				<path class="st1" d="M73.9,2.5c0,0,3.9-0.8,3.9,7.7S73.9,18,73.9,18"/>
+				<path class="st1" d="M72.6,6.4c0,0,2.6-0.4,2.6,3.8s-2.6,3.9-2.6,3.9"/>
+			</g>
+		</g>
+	</g>
+	<g id="closed_captions">
+		<path class="st2" d="M128.7,8.6c-6.2-4.2-6.5,7.8,0,3.9"/>
+		<path class="st2" d="M135.2,8.6c-6.2-4.2-6.5,7.8,0,3.9"/>
+		<path class="st0" d="M122.2,3.4h15.7v13.1h-15.7V3.4z M120.8,2v15.7h18.3V2H120.8z"/>
+	</g>
+	<g id="muted">
+		<path class="st0" d="M47,5.8c-0.5,0.4-1.2,0.6-1.8,0.6H42c-0.6,0-1,0.4-1,1v5.7c0,0.6,0.4,1,1,1h3.2c0.3,0,0.7,0,1,0
+			c0.3,0.2,0.5,0.4,0.8,0.6l3.5,2.6c0.4,0.3,0.8,0.1,0.8-0.4V3.5c0-0.5-0.4-0.7-0.8-0.4L47,5.8z"/>
+		<line class="st3" x1="52.8" y1="7" x2="58.2" y2="12.4"/>
+		<line class="st3" x1="52.8" y1="12.4" x2="58.2" y2="7"/>
+	</g>
+	<g id="skip_forward">
+		<g id="play_pause-2">
+			<g id="play-2">
+				<path id="Polygon-2" class="st0" d="M192.2,2.2l-4.3,2.2V0L192.2,2.2z"/>
+			</g>
+		</g>
+		<g id="play_pause-3">
+			<g id="play-3">
+				<path id="Polygon-3" class="st0" d="M194.9,2.2l-4.3,2.2V0L194.9,2.2z"/>
+			</g>
+		</g>
+		<path class="st4" d="M190,2.2c-4.5,0-8.2,3.6-8.2,8.1c0,0,0,0,0,0"/>
+		<path class="st4" d="M181.8,9.8c0,4.5,3.6,8.2,8.1,8.2c0,0,0,0,0,0"/>
+		<path class="st4" d="M189.6,18c4.5,0,8.2-3.6,8.2-8.1c0,0,0,0,0,0"/>
+	</g>
+	<g id="skipback">
+		<path class="st4" d="M162.7,9.7c0,4.5,3.6,8.2,8.1,8.2c0,0,0,0,0,0"/>
+		<path class="st4" d="M170.4,17.8c4.5,0,8.2-3.6,8.2-8.1c0,0,0,0,0,0"/>
+		<path class="st4" d="M178.5,10c0-4.5-3.6-8.2-8.1-8.2c0,0,0,0,0,0"/>
+		<g id="play_pause-4">
+			<g id="play-4">
+				<path id="Polygon-4" class="st0" d="M166.6,2.2l4.3,2.2V0L166.6,2.2z"/>
+			</g>
+		</g>
+		<g id="play_pause-5">
+			<g id="play-5">
+				<path id="Polygon-5" class="st0" d="M163.9,2.2l4.3,2.2V0L163.9,2.2z"/>
+			</g>
+		</g>
+	</g>
+	<g id="close_captions">
+		<path class="st0" d="M143.2,3h14c1.1,0,2,0.9,2,2v10c0,1.1-0.9,2-2,2h-14c-1.1,0-2-0.9-2-2V5C141.2,3.9,142.1,3,143.2,3z"/>
+		<path class="st0" d="M146.4,13.8c-0.8,0-1.6-0.4-2.1-1c-1.1-1.4-1-3.4,0.1-4.8c0.5-0.6,2-1.7,4.6,0.2L148.4,9
+			c-1.4-1-2.6-1.1-3.3-0.3c-0.8,1-0.8,2.4-0.1,3.5c0.7,0.9,1.9,0.8,3.4-0.1l0.5,0.9C148.2,13.5,147.3,13.7,146.4,13.8z"/>
+		<path class="st0" d="M153.9,13.8c-0.8,0-1.6-0.4-2.1-1c-1.1-1.4-1-3.4,0.1-4.8c0.5-0.6,2-1.7,4.6,0.2L156,9
+			c-1.4-1-2.6-1.1-3.3-0.3c-0.8,1-0.8,2.4-0.1,3.5c0.7,0.9,1.9,0.8,3.4-0.1l0.5,0.9C155.7,13.5,154.8,13.7,153.9,13.8z"/>
+	</g>
+	<path class="st0" d="M218.6,9.4c0-0.6-0.4-1.1-1-1.2l-1.9-0.5c-0.4-0.1-0.6-0.4-0.6-0.8c0-0.1,0.1-0.2,0.1-0.3l1-1.6
+		c0.3-0.5,0.2-1.1-0.1-1.6l0,0c-0.4-0.4-1.1-0.5-1.6-0.2l-1.6,1c-0.3,0.2-0.8,0.2-1-0.2c-0.1-0.1-0.1-0.2-0.1-0.3l-0.5-1.8
+		c-0.2-0.6-0.7-1-1.2-1l0,0c-0.6,0-1.1,0.4-1.2,1l-0.5,1.8c-0.1,0.4-0.4,0.6-0.8,0.6c-0.1,0-0.2-0.1-0.3-0.1l-1.6-1
+		c-0.5-0.3-1.1-0.2-1.6,0.2l0,0c-0.4,0.4-0.5,1.1-0.2,1.6l1,1.6c0.2,0.3,0.2,0.8-0.2,1c-0.1,0.1-0.2,0.1-0.3,0.1l-1.9,0.5
+		c-0.6,0.2-1,0.7-1,1.2l0,0c0,0.6,0.4,1.1,1,1.2l1.9,0.5c0.4,0.1,0.6,0.4,0.6,0.8c0,0.1-0.1,0.2-0.1,0.3l-1,1.6
+		c-0.3,0.5-0.2,1.1,0.2,1.6l0,0c0.4,0.4,1.1,0.5,1.6,0.2l1.6-1c0.3-0.2,0.8-0.2,1,0.2c0.1,0.1,0.1,0.2,0.1,0.3l0.5,1.9
+		c0.2,0.6,0.7,1,1.2,1l0,0c0.6,0,1.1-0.4,1.2-1l0.5-1.9c0.1-0.4,0.4-0.6,0.8-0.6c0.1,0,0.2,0.1,0.3,0.1l1.6,1
+		c0.5,0.3,1.1,0.2,1.6-0.2l0,0c0.4-0.4,0.5-1.1,0.2-1.6l-1-1.6c-0.2-0.3-0.2-0.8,0.2-1c0.1-0.1,0.2-0.1,0.3-0.1l1.9-0.5
+		C218.2,10.5,218.6,10,218.6,9.4L218.6,9.4z M213,9.4c0,1.6-1.3,2.8-2.8,2.8s-2.8-1.3-2.8-2.8c0-1.6,1.3-2.8,2.8-2.8c0,0,0,0,0,0
+		C211.7,6.6,213,7.8,213,9.4L213,9.4z"/>
+	<path class="st0" d="M225,2.8h10c1.1,0,2,0.9,2,2v10c0,1.1-0.9,2-2,2h-10c-1.1,0-2-0.9-2-2v-10C223,3.7,223.9,2.8,225,2.8z"/>
+	<g id="loop">
+		<path class="st0" d="M254.2,6.5c2,2.5,1.6,6.1-0.9,8c-2.5,2-6.1,1.6-8-0.9c-1.8-2.2-1.7-5.3,0.2-7.4l-1.6-1.6
+			c-3,3.2-2.8,8.3,0.4,11.3c3.2,3,8.3,2.8,11.3-0.4c2.8-3,2.9-7.6,0.2-10.6L254.2,6.5z"/>
+		<g id="play_pause-6">
+			<g id="play-6">
+				<g id="Polygon-6">
+					<path class="st0" d="M251.3,3.4c-0.1-0.4,0.2-0.8,0.6-0.9c0.1,0,0.2,0,0.3,0l5.5,0.8c0.5,0.1,0.7,0.5,0.3,0.8l-5,5
+						c-0.4,0.4-0.8,0.3-0.8-0.3L251.3,3.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="loop_off" class="st5">
+		<path class="st0" d="M274.4,6.8c2,2.5,1.6,6.1-0.9,8s-6.1,1.6-8-0.9c-1.8-2.2-1.7-5.3,0.2-7.4l-1.6-1.6c-3,3.2-2.8,8.3,0.4,11.3
+			c3.2,3,8.3,2.8,11.3-0.4c2.8-3,2.9-7.6,0.2-10.6L274.4,6.8z"/>
+		<g id="play_pause-7">
+			<g id="play-7">
+				<g id="Polygon-7">
+					<path class="st0" d="M271.5,3.6c-0.1-0.4,0.2-0.8,0.6-0.9c0.1,0,0.2,0,0.3,0l5.5,0.8c0.5,0.1,0.7,0.5,0.3,0.8l-5,5
+						c-0.4,0.4-0.8,0.3-0.8-0.3L271.5,3.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="big_play">
+	<g id="big_play_-_light">
+		<g id="Polygon-8" class="st6">
+			<path class="st0" d="M60.3,77c0.6,0.2,0.8,0.8,0.6,1.4c-0.1,0.3-0.3,0.5-0.6,0.6L30,96.5c-1,0.6-1.7,0.1-1.7-1v-35
+				c0-1.1,0.8-1.5,1.7-1L60.3,77z"/>
+		</g>
+		<path id="Ellipse" class="st7" d="M2.5,79c0-20.7,16.8-37.5,37.5-37.5S77.5,58.3,77.5,79S60.7,116.5,40,116.5S2.5,99.7,2.5,79
+			L2.5,79z"/>
+	</g>
+	<g id="big_play_hover">
+		<g id="Polygon2">
+			<path class="st0" d="M140.3,77c0.6,0.2,0.8,0.8,0.6,1.4c-0.1,0.3-0.3,0.5-0.6,0.6L110,96.5c-1,0.6-1.7,0.1-1.7-1v-35
+				c0-1.1,0.8-1.5,1.7-1L140.3,77z"/>
+		</g>
+		<path id="Ellipse2" class="st8" d="M82.5,79c0-20.7,16.8-37.5,37.5-37.5s37.5,16.8,37.5,37.5s-16.8,37.5-37.5,37.5
+			S82.5,99.7,82.5,79z"/>
+	</g>
+	<g id="Loading">
+		<circle class="st0" cx="201.9" cy="47.1" r="8.1"/>
+		<circle class="st9" cx="233.9" cy="79" r="5"/>
+		<circle class="st10" cx="201.9" cy="110.9" r="6"/>
+		<circle class="st11" cx="170.1" cy="79" r="7"/>
+		<circle class="st12" cx="178.2" cy="56.3" r="7.5"/>
+		<circle class="st13" cx="226.3" cy="56.1" r="4.5"/>
+		<circle class="st14" cx="225.8" cy="102.8" r="5.5"/>
+		<circle class="st15" cx="178.2" cy="102.8" r="6.5"/>
+	</g>
+</g>
+<g id="Guides">
+	<g id="play_pause-8">
+		<g id="play-8">
+			<g id="Polygon-9">
+				<path class="st0" d="M298.8,9.6c0,0.4-0.4,0.7-0.9,0.7c-0.1,0-0.2,0-0.2-0.1l-4.9-1.8c-0.5-0.2-0.5-0.6-0.1-0.9L299,4
+					c0.5-0.3,0.8-0.1,0.7,0.5L298.8,9.6z"/>
+			</g>
+		</g>
+	</g>
+	<path id="replay" class="st0" d="M290.2,16.1c-1,0-2-0.2-2.9-0.7c-2-1-3.2-3-3.2-5.2c0.1-3.4,2.9-6,6.3-6c2.5,0.1,4.8,1.7,5.6,4.1
+		l0.1-0.1l2.1,1.1c-0.6-4.4-4.7-7.5-9.1-6.9c-3.9,0.6-6.9,3.9-7,7.9c0,2.9,1.7,5.6,4.3,7c1.2,0.6,2.5,0.9,3.8,1c2.6,0,5-1.2,6.6-3.3
+		l-1.8-0.9C293.7,15.3,292,16.1,290.2,16.1z"/>
+</g>
+</svg>

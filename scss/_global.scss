@@ -5,8 +5,10 @@ $primary-color: gold;
 $secondary-color: purple;
 
 // Typography
-
-
+// Hide for Mobile and Tabley
+article h1 {
+    display: none;
+}
 
 // Video Player Styling
 video {

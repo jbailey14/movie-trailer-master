@@ -49,9 +49,13 @@
     header h1 {
         display: none;
     }
-   
+
+    article h1 {
+        display: block;
+    }    
+    
     section {
-        width: 75%;
+        padding-top: 0;
     }
     
   /* Diagnostic Styling. Delete When Done. */
