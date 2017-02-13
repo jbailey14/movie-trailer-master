@@ -18,6 +18,8 @@ video {
     
 }
 
+
+
 // Body Styling
 html {
     background: url(../img/jungle.jpg) no-repeat center center fixed;
@@ -32,3 +34,7 @@ a:link {color: red;}
 a:visited {color: burlywood;}
 a:hover {color: red;}
 a:active {color: burlywood;}
+
+li {
+    list-style: none;
+}
