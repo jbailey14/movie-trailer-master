@@ -17,3 +17,12 @@ video {
     border: 10px solid red;
     
 }
+
+// Body Styling
+html {
+    background: url(../img/jungle.jpg) no-repeat center center fixed;
+    webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
