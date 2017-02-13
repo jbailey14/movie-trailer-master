@@ -1,8 +1,8 @@
 // Global Stylesheet
 
 // Color Palette
-$primary-color: gold;
-$secondary-color: purple;
+$primary-color: green;
+$secondary-color: red;
 
 // Typography
 // Hide for Mobile and Tabley
@@ -14,4 +14,6 @@ article h1 {
 video {
     max-width: 100%;
     width: 100%;
+    border: 10px solid red;
+    
 }
