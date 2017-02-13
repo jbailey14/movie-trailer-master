@@ -26,3 +26,9 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
+
+//links
+a:link {color: red;}
+a:visited {color: burlywood;}
+a:hover {color: red;}
+a:active {color: burlywood;}
