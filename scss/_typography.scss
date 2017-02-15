@@ -1,7 +1,7 @@
 // Typography Stylesheet
 h1 {
     font-family: 'Allerta Stencil', sans-serif;
-    color: red;
+    color: $secondary-color;
     font-size: 4em;
     text-align: center;
     text-transform: uppercase;
@@ -9,10 +9,16 @@ h1 {
 }
 
 .description {
-    background: rgba(17, 71, 0, 0.63);
+    background: $primary-color;
     border-radius: 15px;
     padding: 10px 15px;
     font-size: 1.5em;
     color: white;
 }
 
+.copy {
+    font-family: 'Allerta Stencil', sans-serif;
+    text-transform: uppercase;
+    font-size: 1em;
+    color: $secondary-color;
+}
