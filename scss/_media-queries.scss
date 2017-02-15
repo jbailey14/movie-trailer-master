@@ -1,6 +1,10 @@
 /* Mobile: 320px = 20em */
 @media screen and (min-width: 20em) { 
 
+    article h1 {
+        display: none;
+    }
+    
    .page {
        display: block;
     }
@@ -13,6 +17,10 @@
 
 /* Tablet:  768px = 160em */
 @media screen and (min-width: 48em)  {
+    
+     article h1 {
+        display: none;
+    }
     
     main {
         padding: 2em;
